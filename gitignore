@@ -1,0 +1,20 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/OutlookPST/bin/Debug
+/OutlookPST/obj/Debug
+/.vs/OutlookPST/v16/Server/sqlite3
+/OutlookPST/.vs/OutlookPST/v16/Server/sqlite3
+/RestaurationPST/OutlookPST/obj/Debug
+/RestaurationPST/.vs/OutlookPST/FileContentIndex
+/RestaurationPST/.vs/OutlookPST/v17
+/PSTGet/PSTGet/obj/Debug
+/PSTGet/.vs/PSTGet
+/RestaurationPST/OutlookPST.sln
+/RestaurationPST/OutlookPST.sln
+/PSTGet/packages
+/RestaurationPST/OutlookPST/bin/Debug
+/RestaurationPST/packages
+/RestaurationPST/OutlookPST/bin/Release
+/RestaurationPST/OutlookPST/obj/Release
