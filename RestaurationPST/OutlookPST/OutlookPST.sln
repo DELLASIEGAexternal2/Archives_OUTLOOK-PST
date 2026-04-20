@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookPST", "OutlookPST\OutlookPST.csproj", "{665865D9-81F5-41C7-9FA1-5F40F037E7A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{665865D9-81F5-41C7-9FA1-5F40F037E7A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665865D9-81F5-41C7-9FA1-5F40F037E7A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665865D9-81F5-41C7-9FA1-5F40F037E7A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665865D9-81F5-41C7-9FA1-5F40F037E7A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A002AE6-FD8A-4343-B08B-4B6F4C3C6BEE}
+	EndGlobalSection
+EndGlobal
